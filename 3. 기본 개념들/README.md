@@ -45,6 +45,18 @@ public class BeomService {
 ## Security
 
 - 노드의 미들웨어 같은 느낌
+- Spring에서 제공하는 애플리케이션의 보안 (권한, 인증, 인가 등)을 담당하는 프레임워크
+- 동적 접근 제어(https://jangjjolkit.tistory.com/27)
+- [기본셋팅예제](https://nahwasa.com/entry/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-30%EC%9D%B4%EC%83%81-Spring-Security-%EA%B8%B0%EB%B3%B8-%EC%84%B8%ED%8C%85-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%8B%9C%ED%81%90%EB%A6%AC%ED%8B%B0)
+- websecurityConfigureradapter는 deprecated됨. [공식문서](https://spring.io/blog/2022/02/21/spring-security-without-the-websecurityconfigureradapter)
+
+
+[참고](https://chb2005.tistory.com/176)
+
+## VO
+
+- Value Object
+- 도메인에서 한 개 또는 그 이상의 속성들을 묶어서 특정 값을 나타내는 객체를 의미
 
 ## 참고
 
